@@ -8,9 +8,16 @@ The project is divided into two main layers:
 
 The primary focus of the bachelor’s thesis is on MLOps, particularly on how to deploy and manage such tasks in a production environment. Additionally, a proof of concept (PoC) will be implemented to demonstrate the feasibility of the proposed approaches.
 
+Questions:
+
+1. Can we predict the power generation for next couple of days? - this allows for better grid management
+2. Can we identify the need for panel cleaning/maintenance?
+3. Can we identify faulty or suboptimally performing equipment?
+
+
 ---
 
-# Commit Konventionen/Prefixes
+### Commit Konventionen/Prefixes
 
 1. WIP - Work in Progress
 Verwendung: Für unfertige Änderungen, die noch nicht produktionsbereit sind.
