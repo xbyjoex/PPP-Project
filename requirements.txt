@@ -4,3 +4,6 @@ seaborn
 matplotlib
 flask
 scikit-learn
+sagemaker
+boto3
+python-dotenv
