@@ -7,3 +7,4 @@ scikit-learn
 sagemaker
 boto3
 python-dotenv
+faker
