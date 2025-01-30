@@ -16,3 +16,6 @@ Questions:
 
 
 ---
+
+1. Try: using [this](https://www.kaggle.com/datasets/anikannal/solar-power-generation-data/data) data -> incorrect data and no exact location
+2. Try: using [this](https://data.openei.org/submissions/4568) data -> multiple smaller, private solar plants 
