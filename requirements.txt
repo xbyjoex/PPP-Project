@@ -8,3 +8,4 @@ sagemaker
 boto3
 python-dotenv
 faker
+awswrangler
